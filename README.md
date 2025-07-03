@@ -7,9 +7,9 @@ The goal of this task was to review all installed browser extensions, identify s
 
 ## 🔎 Findings
 
-- **Browser Used:** [Replace with your browser, e.g., Firefox 127.0.2]
-- **Date of Review:** [Replace with today’s date]
-- **Total Extensions Installed:** [Number of extensions you have installed]
+- **Browser Used:** Firefox 127.0.2
+- **Date of Review:** 03/07/25
+- **Total Extensions Installed:** There are total 5 Extentions Installed.
 - **Suspicious Extensions Found:** None
 - **Actions Taken:** No extensions were removed as all installed extensions are legitimate, necessary, and verified.
 
@@ -26,5 +26,3 @@ Screenshots of my installed extensions can be found in the [`screenshots/`](http
 I reviewed all my installed browser extensions and confirmed there were no suspicious or unnecessary ones. I have documented the process with this README and included screenshots for verification.
 
 ---
-
-**[Task Completed Successfully ✅]**
