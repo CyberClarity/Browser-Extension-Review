@@ -17,7 +17,7 @@ The goal of this task was to review all installed browser extensions, identify s
 
 ## 🖼️ Screenshots
 
-Screenshots of my installed extensions can be found in the [`screenshots/`](https://github.com/CyberClarity/Browser-Extension-Review/blob/main/screenshot/Screenshot_2025-07-03_16_56_04.png) folder.
+Screenshots of my installed extensions can be found in the [`screenshots/`](https://github.com/CyberClarity/Browser-Extension-Review/blob/main/screenshot/Extentions.png)folder.
 
 ---
 
